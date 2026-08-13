@@ -1,7 +1,7 @@
 # Humid1-OS: Ecosystem & Cloud Infrastructure
 
 <p align="center">
-  <img src="./assets/banner_0.png" alt="HUMID1-OS Banner" width="100%">
+  <img src="../assets/banner_0.png" alt="HUMID1-OS Banner" width="100%">
 </p>
 
 ---
