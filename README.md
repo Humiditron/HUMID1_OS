@@ -76,7 +76,11 @@ While initial explorations considered monetizing the product, a thorough cost-be
 * **Supply Chain & Logistics:** Overhead tied to physical stock storage, warehousing, and managing third-party distributors.
 * **Customer Operations:** Long-term support burdens for a consumer customer base and processing product returns.
 
+<details>
+<summary>Pending Quote</summary>
+<br>
 > I'm still waiting on sales to get back with me about turn-key 'white goods' development, I assume they are either busy, or not interested in supplying an unofficial/official quote. *(I have both hope and patience)*
+</details>
 
 **The Pivot:** Rather than pursuing a commercial product path, the project's optimal future is **fully open source**. By anchoring the ecosystem around reliable, affordable, off-the-shelf hardware, `HUMID1-OS` eliminates hardware manufacturing risk while maximizing community accessibility, customization, and collaborative growth.
 
