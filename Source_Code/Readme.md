@@ -1,7 +1,7 @@
 # HUMID1-OS Firmware (`source_code`)
 
 <p align="center">
-  <img src="./assets/banner_1.png" alt="HUMID1-OS Banner" width="100%">
+  <img src="../assets/banner_1.png" alt="HUMID1-OS Banner" width="100%">
 </p>
 
 ---
