@@ -1,4 +1,4 @@
-# Document Source Attribution File  
+# Document Source - Attribution File  
 - Reference Document - Source Location: [docs.waveshare.com](https://docs.waveshare.com/ESP32-S3-ePaper-1.54/Resources-And-Documents)  
 
 ---
