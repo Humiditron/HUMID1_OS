@@ -1,4 +1,4 @@
-# Humid1-os - Architectural Specification & Blueprint
+# Humid1-OS - Architectural Specification & Blueprint
 Welcome to the architectural roadmap for **humid1-os** (Humiditron), an ultra-low-power, cloud-integrated IoT hydrometer built for precision cigar and tobacco humidor monitoring. 
 ---
 ## 1. System Overview & Core Workflow
