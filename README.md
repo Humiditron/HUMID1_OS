@@ -1,5 +1,9 @@
 # Humid1-OS: Ecosystem & Cloud Infrastructure
 
+<p align="center">
+  <img src="assets/banner.png" alt="HUMID1-OS Banner" width="100%">
+</p>
+
 > [!WARNING]
 > **Project Under Construction:** The `humid1-os` repository and its associated cloud and hardware integration are currently under active development. Features, code structures, and documentation are subject to change.
 
