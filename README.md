@@ -7,19 +7,19 @@
 ---
 
 > [!WARNING]
-> **Project Under Construction:** The `humid1-os` repository and its associated cloud and hardware integration are currently under active development. Features, code structures, and documentation are subject to change.
+> **Project Under Construction:** The `HUMID1-OS` repository and its associated cloud and hardware integration are currently under active development. Features, code structures, and documentation are subject to change.
 
 > [!NOTE]
-> **Professional Scope:** Designed by **Humiditron**, the `humid1-os` architecture is engineered to demonstrate production-grade IoT competencies, bridging low-level embedded systems with modern cloud-native server administration. It serves as a comprehensive portfolio piece highlighting full-stack ownership—from bare-metal microcontroller firmware to secure cloud orchestration and zero-touch OTA pipelines.
+> **Professional Scope:** Designed by **Humiditron**, the `HUMID1-OS` architecture is engineered to demonstrate production-grade IoT competencies, bridging low-level embedded systems with modern cloud-native server administration. It serves as a comprehensive portfolio piece highlighting full-stack ownership—from bare-metal microcontroller firmware to secure cloud orchestration and zero-touch OTA pipelines.
 
 ---
 
 ## 1. Project Overview & Ecosystem Scope
 
-`humid1-os` is a community-driven, open-source, IoT-enabled humidor monitoring ecosystem built for precise, low-maintenance environmental control.
+`HUMID1-OS` is a community-driven, open-source, IoT-enabled humidor monitoring ecosystem built for precise, low-maintenance environmental control.
 
 * **Author:** Humiditron *(also heard as HYOO-mi-DEE-tron)*
-* **Ecosystem Domain:** `humid1.com`
+* **Ecosystem Domain:** [Humid1.com](https://www.humid1.com)
 * **Backend Infrastructure:** ThingsBoard IoT server.
 * **Core Strategy:** Standardizing on a single, off-the-shelf hardware target to eliminate fragmentation, supply chain overhead, and custom debugging complexity. Devices are flashed once during setup, with subsequent configuration and lifecycle updates handled seamlessly Over-The-Air (OTA) via ThingsBoard.
 * **Future Vision:** Opening up the platform for public use as a free service supporting standard hardware.
@@ -33,7 +33,7 @@
 
 ## 2. Hardware Target & Technical Specifications
 
-`humid1-os` standardizes on the **Waveshare ESP32-S3-ePaper-1.54G** (V2 hardware platform) **SKU:32298**, featuring integrated low-power peripherals tailored for sealed environment monitoring.
+`HUMID1-OS` standardizes on the **Waveshare ESP32-S3-ePaper-1.54G** (V2 hardware platform) **SKU:32298**, featuring integrated low-power peripherals tailored for sealed environment monitoring.
 
 ### Hardware Specifications (V2 Board)
 * **Microcontroller:** ESP32-S3-PICO-1-N8R8 SoC (Xtensa 32-bit LX7 dual-core processor operating up to 240MHz, with integrated 8MB Flash and 8MB PSRAM in a stacked package).
@@ -78,7 +78,7 @@ While initial explorations considered monetizing the product, a thorough cost-be
 
 > I'm still waiting on sales to get back with me about turn-key 'white goods' development, I assume they are either busy, or not interested in supplying an unofficial/official quote. *(I have both hope and patience)*
 
-**The Pivot:** Rather than pursuing a commercial product path, the project's optimal future is **fully open source**. By anchoring the ecosystem around reliable, affordable, off-the-shelf hardware, `humid1-os` eliminates hardware manufacturing risk while maximizing community accessibility, customization, and collaborative growth.
+**The Pivot:** Rather than pursuing a commercial product path, the project's optimal future is **fully open source**. By anchoring the ecosystem around reliable, affordable, off-the-shelf hardware, `HUMID1-OS` eliminates hardware manufacturing risk while maximizing community accessibility, customization, and collaborative growth.
 
 ---
 
@@ -86,8 +86,8 @@ While initial explorations considered monetizing the product, a thorough cost-be
 
 * [x] **Phase 1: Core Infrastructure Setup**
   * Configure and harden the ThingsBoard server environment.
-  * Establish domain routing and reverse proxy for `humid1.com`.
-* [ ] **Phase 2: Firmware Development (`humid1-os`)**
+  * Establish domain routing and reverse proxy for `HUMID1-OS`.
+* [ ] **Phase 2: Firmware Development (`HUMID1-OS`)**
   * Write and optimize the firmware for the chosen ESP32-S3 e-Paper hardware platform.
   * Implement deep-sleep power saving, `SHTC3` sensor polling, and local e-Paper rendering.
   * Integrate secure Bluetooth provisioning and ThingsBoard telemetry transport.
