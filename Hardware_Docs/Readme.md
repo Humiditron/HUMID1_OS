@@ -1,0 +1,8 @@
+# Document Source Attribution File  
+- Document Source Location: [docs.waveshare.com](https://docs.waveshare.com/ESP32-S3-ePaper-1.54/Resources-And-Documents)  
+
+---
+
+*Co-architected with a touch of C.A.D. (Companion-Assisted Design)*  
+**Humiditron-2026**  
+License: MIT (see license file for details)  
