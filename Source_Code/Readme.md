@@ -4,8 +4,6 @@
   <img src="../assets/banner_1.png" alt="HUMID1-OS Banner" width="100%">
 </p>
 
----
-
 > Welcome to the firmware source directory for **HUMID1-OS**, an ultra-low-power, cloud-integrated IoT hydrometer built for precision cigar and tobacco humidor monitoring. 
 
 ## 1. Hardware Target & Prerequisites
