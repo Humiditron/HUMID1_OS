@@ -77,7 +77,7 @@ While initial explorations considered monetizing the product, a thorough cost-be
 * **Customer Operations:** Long-term support burdens for a consumer customer base and processing product returns.
 
 <details>
-<summary>Pending Quote</summary>
+<summary>Quote, Status:Pending</summary>
 
 <br>
 
