@@ -51,15 +51,16 @@ Welcome to the architectural roadmap for **HUMID1-OS**, an ultra-low-power, clou
 ---
 ## 6. ThingsBoard Integration & Telemetry
 ### Telemetry Sent to Cloud
-* **Identifiers:** ICS Series, Serial Number, Firmware Version, MAC Address.
-* **Sensor Data:** Temperature (C/F), Relative Humidity (%).
+* **Identifiers:** SOC Series/ID, Serial Number, Firmware Version, MAC Address.
+* **Sensor Data:** Temperature (C°/F°), Relative Humidity (%).
 * **Device Health:** Battery percentage, Wi-Fi link status (On/Off), active SSID.
 * **System Meta:** Current time, day of week, date, configured duty cycle interval.
 ### Dashboard Controls & Attributes
 * **Temperature Unit Toggle:** Switch between Celsius and Fahrenheit.
 * **Audio Playback Switch:** Enable or disable onboard audio chimes remotely.
 * **Duty Cycle Configuration:** Adjustable sleep intervals (e.g., 5 min, 15 min, 30 min, 1 hour) to balance battery life and reporting granularity.
-* **Device Naming:** Custom assignable friendly name (e.g., *“Bedroom Humidor #1”*).
+* **Device Naming:** Custom assignable friendly name (e.g., *“Bedroom Humidor #1”*).  
+* **Theme Selection: Selectable light/dark device theme.  
 ---
 ## 7. Display & UI Architecture (e-Paper)
 * **Design Language:** Sci-fi minimalist aesthetic. The splash screen features the logo **humid1-os**, utilizing a compact "1" styled as a sleek hyphen/accent element.
