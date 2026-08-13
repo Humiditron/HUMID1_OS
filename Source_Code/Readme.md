@@ -1,10 +1,12 @@
 # HUMID1-OS Firmware (`source_code`)
 
+> Welcome to the firmware source directory for **HUMID1-OS**, an ultra-low-power, cloud-integrated IoT hydrometer built for precision **cigar and tobacco humidor** monitoring. 
+
 <p align="center">
   <img src="../assets/banner_1.png" alt="HUMID1-OS Banner" width="100%">
 </p>
 
-> Welcome to the firmware source directory for **HUMID1-OS**, an ultra-low-power, cloud-integrated IoT hydrometer built for precision **cigar and tobacco humidor** monitoring. 
+---
 
 ## 1. Hardware Target & Prerequisites
 The firmware is strictly engineered to target the **Waveshare ESP32-S3-ePaper-1.54 (V2 Revision, SKU: 32298)** hardware platform. 
