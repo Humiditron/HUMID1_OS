@@ -81,9 +81,9 @@ While initial explorations considered monetizing the product, a thorough cost-be
 
 <br>
 
-I'm still waiting on sales to get back with me about turn-key 'white goods' development, I assume they are either busy, or not interested in supplying an unofficial/official quote. 
+> I'm still waiting on sales to get back with me about turn-key 'white goods' development, I assume they are either busy, or not interested in supplying an unofficial/official quote. 
 
-*(I have both hope and patience)*
+> *(I have both hope and patience)*
 
 </details>
 
