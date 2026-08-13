@@ -1,8 +1,8 @@
-# Humid1-OS - Architectural Specification & Blueprint
-Welcome to the architectural roadmap for **humid1-os** (Humiditron), an ultra-low-power, cloud-integrated IoT hydrometer built for precision cigar and tobacco humidor monitoring. 
+# HUMID1-OS - Architectural Specification & Blueprint
+Welcome to the architectural roadmap for **HUMID1-OS**, an ultra-low-power, cloud-integrated IoT hydrometer built for precision cigar and tobacco humidor monitoring. 
 ---
 ## 1. System Overview & Core Workflow
-`humid1-os` is engineered for a "zero-touch-after-setup" lifecycle. The core operational flow follows these phases:
+`HUMID1-OS` is engineered for a "zero-touch-after-setup" lifecycle. The core operational flow follows these phases:
 * **First Boot & Provisioning:** User enters Bluetooth provisioning mode via a physical button hold. The device announces itself to ThingsBoard for auto-discovery and is claimed via serial or a secure PIN code.
 * **Asset Initialization:** If an SD card is present during provisioning, the device downloads an English audio sample catalog for voice alerts. Time syncs automatically over the network.
 * **Steady-State Operation:** The device loops through deep sleep and active cycles, reading the SHTC3 sensor, updating the e-Paper display, reporting telemetry to ThingsBoard, and checking for scheduled OTA updates.
@@ -64,7 +64,7 @@ Welcome to the architectural roadmap for **humid1-os** (Humiditron), an ultra-lo
 ## 7. Display & UI Architecture (e-Paper)
 * **Design Language:** Sci-fi minimalist aesthetic. The splash screen features the logo **humid1-os**, utilizing a compact "1" styled as a sleek hyphen/accent element.
 * **Display States:**
-  * **Boot / Splash:** Displays the `humid1-os` branding.
+  * **Boot / Splash:** Displays the `HUMID1-OS` branding.
   * **Provisioning Mode:** Explicitly states *"Provisioning..."* on screen.
   * **Flash Erase:** Explicitly states *"Erasing Flash..."* during factory resets.
   * **Standard Dashboard View (Static):**
