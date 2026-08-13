@@ -8,7 +8,7 @@
 
 ## 1. Hardware Target & Prerequisites
 The firmware is strictly engineered to target the **Waveshare ESP32-S3-ePaper-1.54 (V2 Revision, SKU: 32298)** hardware platform. 
-* **Microcontroller:** ESP32-S3-PICO-1-N8R8 SoC (Xtensa 32-bit LX7 dual-core processor at 240 MHz, 8MB Flash, 8MB PSRAM)[span_4].
+* **Microcontroller:** ESP32-S3-PICO-1-N8R8 SoC (Xtensa 32-bit LX7 dual-core processor at 240 MHz, 8MB Flash, 8MB PSRAM).
 * **Display:** 1.54-inch 2-color (Black and White) e-Paper display (200x200 resolution).
 * **Sensor:** SHTC3 Temperature & Humidity sensor (I2C address `0x70`).
 * **Peripherals:** PCF85063 RTC, ES8311 audio codec, and an optional MicroSD card slot for audio sample catalog.
