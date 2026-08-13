@@ -1,4 +1,4 @@
-# Humid1-os: Ecosystem & Cloud Infrastructure
+# Humid1-OS: Ecosystem & Cloud Infrastructure
 
 > [!WARNING]
 > **Project Under Construction:** The `humid1-os` repository and its associated cloud and hardware integration are currently under active development. Features, code structures, and documentation are subject to change.
