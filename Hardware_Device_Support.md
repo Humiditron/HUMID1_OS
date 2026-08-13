@@ -1,6 +1,15 @@
 # Humid1-OS - Hardware Support & Technical Reference
 > **Official Hardware Repository / SDK Reference:** [Waveshare ESP32-S3-ePaper-1.54 GitHub Repository](https://github.com/waveshareteam/ESP32-S3-ePaper-1.54/tree/main)
-This document serves as the comprehensive hardware, pinout, power management, and firmware development reference for `humid1-os`.
+
+<p align="center">
+  <a href="https://www.waveshare.com/esp32-s3-epaper-1.54.htm?sku=32298">
+    <img src="https://www.waveshare.com/img/devkit/ESP32-S3-ePaper-1.54/ESP32-S3-ePaper-1.54-details-intro.jpg" alt="ESP32-S3-32298" width="100%">
+  </a>
+</p>
+
+---
+
+This document serves as the comprehensive hardware, pinout, power management, and firmware development reference for `HUMID1-OS`.
 ---
 ## 1. Hardware Selection & Specifications
 The hardware platform for the ecosystem is built around the **Waveshare ESP32-S3-ePaper-1.54** (SKU: 32298, V2 Revision), integrating processing, display, environmental sensing, and power management into a single cased module.
@@ -11,7 +20,7 @@ The hardware platform for the ecosystem is built around the **Waveshare ESP32-S3
   * *V1 Version:* Equipped with ESP32-S3FH4R2, integrated 4MB Flash and 2MB PSRAM.
   * *V2 Version:* Equipped with ESP32-S3-PICO-1-N8R8, integrated 8MB Flash and 8MB PSRAM; features optimized whole-board power consumption in sleep mode.
 * **Regulatory & Compliance Status:** Formal third-party regulatory safety certifications (such as FCC, CE, or UL) and official RoHS declarations are **not on file** for this specific hobbyist/developer module. Builders deploying hardware at scale should factor this into commercial plans, though it remains viable for open-source self-hosted maker projects.
-* **Vendor Disclaimer:** `humid1-os` is an independent open-source project and is not officially endorsed by, affiliated with, or sponsored by Waveshare. We are open to exploring sponsorship or collaboration opportunities with Waveshare.
+* **Vendor Disclaimer:** `HUMID1-OS` is an independent open-source project and is not officially endorsed by, affiliated with, or sponsored by Waveshare. We are open to exploring sponsorship or collaboration opportunities with Waveshare.
 ### Microcontroller & Processing
 * **SoC:** ESP32-S3-PICO-1-N8R8 System-on-Chip featuring an Xtensa 32-bit LX7 dual-core processor running at speeds up to 240 MHz.
 * **Memory:** Integrated 8MB of Flash and 8MB of PSRAM in a stacked package.
