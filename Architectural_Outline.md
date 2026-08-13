@@ -60,7 +60,7 @@ Welcome to the architectural roadmap for **HUMID1-OS**, an ultra-low-power, clou
 * **Audio Playback Switch:** Enable or disable onboard audio chimes remotely.
 * **Duty Cycle Configuration:** Adjustable sleep intervals (e.g., 5 min, 15 min, 30 min, 1 hour) to balance battery life and reporting granularity.
 * **Device Naming:** Custom assignable friendly name (e.g., *“Bedroom Humidor #1”*).  
-* **Theme Selection:** Selectable light/dark device theme.  
+* **Theme Selection:** Selectable (Light/Dark) device theme.  
 ---
 ## 7. Display & UI Architecture (e-Paper)
 * **Design Language:** Sci-fi minimalist aesthetic. The splash screen features the logo **humid1-os**, utilizing a compact "1" styled as a sleek hyphen/accent element.
