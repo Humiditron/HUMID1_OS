@@ -1,5 +1,5 @@
 # humid1-os: Hardware Support & Technical Reference
-> **Official Hardware Repository / SDK Reference:** [Waveshare ESP32-S3-ePaper-1.54 GitHub Repository](https://github.com/waveshareteam/ESP32-S3-ePaper-1.54/tree/main)[span_0](start_span)[span_0](end_span)
+> **Official Hardware Repository / SDK Reference:** [Waveshare ESP32-S3-ePaper-1.54 GitHub Repository](https://github.com/waveshareteam/ESP32-S3-ePaper-1.54/tree/main)
 This document serves as the comprehensive hardware, pinout, power management, and firmware development reference for `humid1-os`.
 ---
 ## 1. Hardware Selection & Specifications
