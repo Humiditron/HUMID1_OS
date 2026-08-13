@@ -19,7 +19,7 @@
 `HUMID1-OS` is a community-driven, open-source, IoT-enabled humidor monitoring ecosystem built for precise, low-maintenance environmental control.
 
 * **Author:** Humiditron *(also heard as HYOO-mi-DEE-tron)*
-* **Ecosystem Domain:** [Humid1.com](https://www.humid1.com)
+* **Ecosystem Domain:** [Humid1.com](https://humid1.com/)
 * **Backend Infrastructure:** ThingsBoard IoT server.
 * **Core Strategy:** Standardizing on a single, off-the-shelf hardware target to eliminate fragmentation, supply chain overhead, and custom debugging complexity. Devices are flashed once during setup, with subsequent configuration and lifecycle updates handled seamlessly Over-The-Air (OTA) via ThingsBoard.
 * **Future Vision:** Opening up the platform for public use as a free service supporting standard hardware.
