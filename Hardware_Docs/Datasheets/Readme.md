@@ -4,6 +4,6 @@
 
 ---
 
-*Co-architected with a touch of C.A.D. (Companion-Assisted Design)*  
 **Humiditron-2026**  
-Licenses: [MIT](LICENSE) (Code) | [CC BY 4.0](LICENSE-ASSETS) (Media Assets)
+Licenses: [MIT](LICENSE) (Code) | [CC BY 4.0](LICENSE-ASSETS) (Media Assets)  
+*Co-architected with a touch of C.A.D. (Companion-Assisted Design)*  
