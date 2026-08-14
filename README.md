@@ -113,5 +113,4 @@ While initial explorations considered monetizing the product, a thorough cost-be
 
 *Co-architected with a touch of C.A.D. (Companion-Assisted Design)*  
 **Humiditron-2026**  
-License: MIT (see license file for details)  
-
+Licenses: [MIT](LICENSE) (Code) | [CC BY 4.0](LICENSE-ASSETS) (Media Assets)
